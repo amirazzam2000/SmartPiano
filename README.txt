@@ -9,7 +9,7 @@ Running the client is similar to how you run the server, just go to the client p
 
 if you run the database some default staticstics already exist, so the graphs will have some values in them.
 
-We made a user that is called "user" and has the password "user", we had to do it in the database as the password doesn't
+there is a default user that is called "user" and has the password "user",it is hardcoded in the database as the password doesn't
 match the MIT Password Policy.
 
 
