@@ -1,4 +1,4 @@
-We use java SDK 13
+Java SDK 13
 
 In order to excute the code you need to run the server first, as the client needs to connect to it. 
 To run the server you need to select the main in the server package and run it.
